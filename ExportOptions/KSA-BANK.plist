@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.enbd.KSAEnhancement</key>
+		<string>ENBD KSA Enhancement AdHoc</string>
+		<key>com.enbd.KSAEnhancement.NearestBranchesAndATMs</key>
+		<string>ENBD KSA Enhancement Nearest Branches ATMs AdHoc</string>
+		<key>com.enbd.KSAEnhancement.Currency-Converter</key>
+		<string>ENBD KSA Enhancement Currency Converter AdHoc</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<false/>
+</dict>
+</plist>
